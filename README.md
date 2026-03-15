@@ -20,4 +20,4 @@ This project analyzes customer journeys, social media engagement, and product re
 - Highlighted conversion trends across the customer journey
 
 ## Dashboard
-Power BI dashboards visualize engagement metrics, sentiment insights, and conversion trends t
+Power BI dashboards visualize engagement metrics, sentiment insights, and conversion trends
